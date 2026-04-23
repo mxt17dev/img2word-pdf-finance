@@ -1,4 +1,4 @@
-# 支付记录图片转 PDF 工具 (img2word-pdf-finance)
+# 支付记录图片转 PDF 工具 (img2pdf-finance)
 
 这是一个基于 Python 的自动化工具，专门用于将支付截图、收据图片整理成排版整齐的 PDF 文件。
 
